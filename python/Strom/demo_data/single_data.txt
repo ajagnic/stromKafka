@@ -1,1 +1,0 @@
-{"id": 0, "location": [-122.69081962885704, 45.52110054870811], "timestamp": 1510603538107, "region-code": "PDX", "driver-id": "Molly Mora"}

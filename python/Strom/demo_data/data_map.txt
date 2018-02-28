@@ -1,6 +1,0 @@
-stream_name: driver_data
-timestamp:timestamp
-measures:location (dtype: tuple of float)
-user_ids:driver_id, id
-field:region-code
-
